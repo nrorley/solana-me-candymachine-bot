@@ -1,0 +1,74 @@
+{
+    "_id": "62898f2bc76c200010ea429c",
+    "name": "Trippin' Ape Tribe",
+    "symbol": "trippin_ape_tribe",
+    "image": "https://dl.airtable.com/.attachments/3d30788bad6d1da8e09dcbad8c286d59/4d2dfb96/Logo-Black.gif",
+    "description": "Trippin' Ape Tribe is a community-first PFP project on Solana, backed by strong and ownable branding, cheeky storytelling, innovative long-term utility, and a passionate community of free-thinking degens.\n\n10,000 Apes have fallen under the trance of a mysterious yet charismatic leader, Chorles, but don’t worry… it's definitely not a cult.",
+    "price": 4,
+    "size": 10000,
+    "prelaunch": {
+        "whitelist": true
+    },
+    "launchDate": "2022-05-24T15:20:00.000Z",
+    "featured": true,
+    "published": true,
+    "crossmintId": "",
+    "finished": false,
+    "mint": {
+        "candyMachineId": "EZcZTsLpvdisPgQy5TcCALYgmGKRMNvvyJ89t1LFWmum"
+    },
+    "createdAt": "2022-05-22T01:17:30.572Z",
+    "discordLink": "https://discord.com/invite/trippinapetribe",
+    "websiteLink": "https://www.trippinapetribe.xyz/",
+    "twitterLink": "https://twitter.com/TrippinApeNFT",
+    "disableAutolist": false,
+    "externalLink": "",
+    "externalLinkCTA": "",
+    "placeholderStages": [],
+    "presaleAmountOffset": null,
+    "badges": [
+        "doxxed",
+        "escrow_7d"
+    ],
+    "richDescription": "Let's get one thing straight, right away: This is NOT a cult. It’s a tribe, understood? Perfect.\n\nAt some point in our inconsequential existence, we were just your ordinary apes: kickin it in trees, eating bananas and shit (just to be clear, no, I don’t mean we were eating shit). Everything changed when a bunch of spunions came to our island blaring strange sounds and strands of fire in the sky for something called Fire Festival 2.\n\nThese strange beings seemed to be entranced, hypnotized by sonic beats. We observed from a distance and noticed the mood started to change. When their food and water went dry and their performers stopped showing up, these pompous savages began to devolve.\n\nThe debauchery reached a fever pitch when one we could assume to be their chief, Ja Ruler, started screaming at everybody and demanding some dude suck dick for water. Idk, shit got pretty weird. Eventually, the scene turned into complete and utter chaos, leading all of them to frantically leave the island. The event turned out to be a disaster—for them, at least.\n\nAfter everyone fled, we started scavenging the wasteland those trust fund babies left behind. It was mostly deflated mattresses and baloney sandwiches with a scared spunion hiding in the crevices. We looked through their refugee tents until one of the alphas, Chorles, found a mysterious piece of luggage. He inspected it to ensure the safety of the rest of the apes before taking it back to his dwelling.\n\nMonths had passed with very little sighting of Chorles, when he popped up out of nowhere, announcing that he needed some volunteers for what he called the “clinical trials.” The initial group of volunteers would become Chorles’ disciples. At first, us apes were wary, but Chorles’ disciples seemed to be in a tranquil state after every session.\n\nOne day, out of curiosity, we filed into his hut one-by-one and were presented with mysterious teas, fungi and these weird, tiny pieces of paper that we had to eat. Chorles said these were the keys to the universe and if we follow his lead, we would all find eternal bliss. So we dropped in, us apes started a journey that would expand our consciousness.\n\nFast forward to now, we’re like some fucking super apes. Our cognitive abilities increased exponentially, eventually leading us to become self aware. These mystical sessions completely transformed our way of life.\n\nSince the clinical trials, we now have a weekly ceremony, hosted by Chorles, where we take controlled doses of these psychoactive substances. He says this is required to find the promised land and has started working on his new venture, the Valhalla Laboratory, to get us there faster.\n\nHonestly, life is good here in the tribe… Chorles takes care of us and has shown us the way. We never have to worry about anything with his supreme guidance. I mean sure, occasionally someone acts out and has to be punished, but Chorles loves us and assures it’s for our own good. We don’t question it because, well, he’s always right. He’s been right about everything.\n\nShit, sorry I’m rambling, but you should join us. Join the tribe. It’s definitely not a cult.",
+    "richPeople": "# Lysergic - Co-Founder \n\nElectronic music festival owner and director with humble beginnings. Branding and team building expert. Captain of the party and full-blown NFT degen. 2017 bag holder and crypto winter survivor. May have tried psychedelics once…\n\n\n\n# Danny Devitoken - Co-Founder \n\nFull-time degen and ex-psychonaut. Man of many passions. Experienced in a wide range of different industries with the ability to adapt and apply variety of experience to solve complex problems. Maestro of trial and error.\n\n\n\n# Fig - Artist\n\nCareer artist with a cult-like following in the festival scene, making his first foray into NFTs. Materializes all our psychedelic dreams into vivid color.\n\n\n\n# Fenrus - Marketing Lead\n\nMaster of persuasion. Serial side hustler. Built brand strategies and engagement programs for several 8-figure clients. Once got eaten alive by a mountain lion and reborn as an eagle soaring through the desert… or was that a dream?\n\n\n\n# King Kulbik - Community Manager\n\nHype machine and man of the Tribe. Front-end developer to pay the bills, vibe generator to feed his passion. Chorles appointed him to lead the Tribe to salvation, and now he has a fan club. Don’t ask him. He just trusts the process.\n\n\n\n# Top10brisketrecipes - Developer\n\nTokenomics savant and ritual game theorist. Used to run consumer software businesses at a FAANG company. A true NFT degen living by a simple rule: I see Ape, I Ape. Web3 and taco maxi.\n\n\n\n# Mr. Hankey - Developer\n\nBuilder with 4+ years of programming experience. Jams on everything from websites and mobile apps to IoT. Devolved into a full-time shitcoin and NFT degen over the last year and accumulated extensive knowledge in the space.",
+    "richRoadmap": "THERE ARE NO ROADMAPS WHERE WE’RE GOING....",
+    "updatedAt": "2022-05-24T17:04:32.905Z",
+    "whitepaperLink": "",
+    "state": {
+        "candyMachine": "EZcZTsLpvdisPgQy5TcCALYgmGKRMNvvyJ89t1LFWmum",
+        "itemsAvailable": 10000,
+        "itemsRedeemed": 9705,
+        "itemsRedeemedNormal": 9705,
+        "itemsRedeemedRaffle": 0,
+        "itemsRemaining": 295,
+        "raffleTicketsPurchased": 0,
+        "stages": [
+            {
+                "price": 3250000000,
+                "startTime": "2022-05-24T15:20:00.000Z",
+                "walletLimit": {
+                    "variableLimit": {}
+                },
+                "endTime": "2022-05-24T19:20:00.000Z",
+                "type": "NormalSale",
+                "mintedDuringStage": 9479,
+                "previousStageUnmintedSupply": 0
+            },
+            {
+                "price": 4000000000,
+                "startTime": "2022-05-24T19:30:00.000Z",
+                "walletLimit": {
+                    "fixedLimit": {
+                        "limit": 1
+                    }
+                },
+                "endTime": "2022-05-25T19:30:00.000Z",
+                "type": "NormalSale",
+                "mintedDuringStage": 0,
+                "previousStageUnmintedSupply": 0
+            }
+        ],
+        "goLiveDate": "2022-05-24T15:20:00.000Z"
+    }
+}

@@ -1,0 +1,74 @@
+{
+    "_id": "626f256c384a320010f4781a",
+    "name": "Kyoudai Spirits",
+    "symbol": "kyoudai_spirits",
+    "image": "https://dl.airtable.com/.attachmentThumbnails/4328ee80b02f240cfb213215574fe40f/e27d730d",
+    "description": "Mint your character's spirit to join World Of Kyoudai - Not just another metaverse but a pure-blooded classic MMORPG, where your NFT’s worth is decided by how well you play.",
+    "price": 1,
+    "size": 4444,
+    "prelaunch": {
+        "whitelist": true
+    },
+    "launchDate": "2022-05-15T00:20:00.000Z",
+    "featured": false,
+    "published": true,
+    "finished": true,
+    "mint": {
+        "candyMachineId": "Fkf72xhn771kCMd5mcYc4KeqcDTzeK1VFCfSKNLE2bW6"
+    },
+    "createdAt": "2022-05-02T00:27:23.877Z",
+    "discordLink": "https://discord.com/invite/kyoudai",
+    "websiteLink": "http://play.kyoud.ai/",
+    "twitterLink": "https://twitter.com/kyoudailabs",
+    "disableAutolist": false,
+    "externalLink": "",
+    "externalLinkCTA": "",
+    "placeholderStages": [],
+    "presaleAmountOffset": null,
+    "badges": [
+        "doxxed",
+        "escrow_1d"
+    ],
+    "richDescription": "🌎 World Of Kyoudai (WoK) \n\nWorld Of Kyoudai is a MMORPG with a fun twist - Take control of your character, solve quests, meet other players, fight the enemies and explore the world. If you don’t feel like slaying enemies, you can try many activities - chop down the trees, mine the stones or collect several distinct assets and resources that you can then use to craft items or just sell them on the market for a profit. If you’re feeling playful, find one of many arcade machines in the game and click on it to jump straight into a quick arcade game - just for fun, but also as a part of a tournament with other players inside the World Of Kyoudai to compete for interesting prizes. \n\n👻 About This Mint \n\nMint one of the “Spirits” of 14 mythical races. Each spirit lives in one of 14 different regions of the World Of Kyoudai. The spirit is your ticket to get inside the game world, but you will never know what your spirit is and what it’s capable of before the reveal process.The revealed NFT represents your character - your skill tree, skill points and unique items you equip along the way. Your save state is tied to the NFT character you are playing with and metadata will change dynamically as you progress. Thanks to that, you can also transfer, sell or buy the game state second-hand here on an NFT marketplace—such as MagicEden—by listing your character.\n\n🕹️ Can I play it ? \n\nYou will use your NFT to join the game’s early access anytime during the development starting this month. If you want to shape up the game and adjust the development direction, set up in-game events, and receive royalties from the game world: join the Guardians Of Kyoudai by buying one of 888 limited OG Kyoudais here on MagicEden that we minted back in December 2021.\n\n[Youtube Gameplays](https://www.youtube.com/channel/UCMu8CH9eIEVje7_cL_jjrtg)\n\n![Kyoudai_Preview](https://cdn.discordapp.com/attachments/966029619260174346/970339126782095411/batch_1.gif)\n![Kyoudai_Preview](https://cdn.discordapp.com/attachments/966029619260174346/970339127180558347/batch_2.gif)\n\n# The Lore of the Spirits: \n*Kyoudai was a utopia until an elder Guardian, Haddamøn, broke his vows of protection and performed the forbidden Nergal incantation.\nOnce he recited the cursed words, the ancient protection against the underworld—one a legendary Kyoudai had put in place centuries ago—disintegrated.\nWithout time to waste, the Guardians of Kyoudai consulted the All-Seeing One and, with his blessing, they summoned 4444 Kyoudai Spirits to defeat the evil force—and restore peace in the World of Kyoudai.*\n",
+    "richPeople": "![Kyoudai](https://media.discordapp.net/attachments/946787307430772836/948486061779202078/logo2.png)\nWe are Kyoudai Labs - A studio solely focused on building and maintaining WoK that consists of professional game developers that worked on leading web games, a senior JavaScript and Solana engineer, aspiring 2D and 3D artists and a marketing guru with years of experience in the music and entertainment industry. We are backed by an amazing Discord community and holders of 888 Guardians Of Kyoudais that motivated us and saw us deliver on our promises right from the project's early beginnings.\n\nWe strive to build a high-quality game experience without riding the wave of buzzwords, where our gameplay quality is the sole focus because we believe the Blockchain will be the future home of the best gaming-social experiences.\n\n- Ghost \n\n- Snayper aka ANGELZ\n\n- Woody \n\n- Klerity \n\n- Scoe \n\nMo \n\n& the Kyoudai Discord Community.",
+    "richRoadmap": "Kyoudai's development started 6 months ago in November 2021. The first game prototype was shown publicly during Hacker House Prague and a later version at Hacker House Miami. We currently have a fully playable prototype with working game mechanics that will be accessible to holders anytime during the “Early Access” period. We plan to release a final version in Q1 2023. Further down the timeline (2023 and beyond), the World Of Kyoudai will be expanded and iteratively developed to keep the game entertaining and the game world dynamic.\n\nOutside of the main development plan, we will introduce following features:\n\nStaking of the game characters (Q2 2022)\n\nIn-game economy represented by tradable token (Q3 2022)\n\nPartnerships & other NFT collections used in-game (Q4 2022)\n\nPvP dueling arena (Q4 2022)\n\nInviting 3rd-party developers to expand WoK features using our API (Q1 2023)\n\nStandalone mobile version for Android and iOS (Q3 2023)",
+    "updatedAt": "2022-05-15T23:42:33.106Z",
+    "whitepaperLink": "",
+    "crossmintId": "",
+    "state": {
+        "candyMachine": "Fkf72xhn771kCMd5mcYc4KeqcDTzeK1VFCfSKNLE2bW6",
+        "itemsAvailable": 4444,
+        "itemsRedeemed": 4444,
+        "itemsRedeemedNormal": 4444,
+        "itemsRedeemedRaffle": 0,
+        "itemsRemaining": 0,
+        "raffleTicketsPurchased": 0,
+        "stages": [
+            {
+                "price": 1000000000,
+                "startTime": "2022-05-14T19:20:00.000Z",
+                "walletLimit": {
+                    "fixedLimit": {
+                        "limit": 3
+                    }
+                },
+                "endTime": "2022-05-14T23:29:00.000Z",
+                "type": "NormalSale",
+                "mintedDuringStage": 364,
+                "previousStageUnmintedSupply": 0
+            },
+            {
+                "price": 1000000000,
+                "startTime": "2022-05-14T23:30:00.000Z",
+                "walletLimit": {
+                    "noLimit": {}
+                },
+                "endTime": "2022-05-17T00:30:00.000Z",
+                "type": "NormalSale",
+                "mintedDuringStage": 3180,
+                "previousStageUnmintedSupply": 0
+            }
+        ],
+        "goLiveDate": "2022-05-14T19:20:00.000Z"
+    }
+}
